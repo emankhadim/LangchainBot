@@ -45,7 +45,6 @@ Getting Started
    OPENAI_API_KEY=your_openai_api_key
    CAR_API_KEY=your_car_api_key
 
-4. Run the app:
-  ```bash
+4. Run app: 
    streamlit run app.py
  
