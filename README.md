@@ -35,11 +35,11 @@ Getting Started
    ```bash
    git clone https://github.com/emankhadim/LangchainBot.git
    cd LangchainBot
-   ```bash
+   
 2. Install the required packages:
  ```bash
    pip install -r requirements.txt
-   ```bash
+   
 3. Create a .env file and add your API keys:
 
    OPENAI_API_KEY=your_openai_api_key
@@ -48,4 +48,4 @@ Getting Started
 4. Run the app:
   ```bash
    streamlit run app.py
- ```bash
+ 
