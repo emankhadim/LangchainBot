@@ -38,14 +38,6 @@ Getting Started
    
 2. Install the required packages:
  ```bash
-   pip install -r requirements.txt
-   
-3. Create a .env file and add your API keys:
+    pip install -r requirements.txt
 
-   OPENAI_API_KEY=your_openai_api_key
-   CAR_API_KEY=your_car_api_key
 
-4. Run the app:
-  ```bash
-   streamlit run app.py
- 
